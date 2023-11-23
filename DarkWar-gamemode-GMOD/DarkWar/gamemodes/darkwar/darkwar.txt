@@ -1,0 +1,10 @@
+"darkwar"
+{
+
+	"base"		"base"
+	"title"		"DarkWar"
+	"maps"		"^dw_"
+	"category"	"pvp"
+	"menusystem"	"1"
+
+}
